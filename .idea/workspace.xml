@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e0ae395-f4f4-4cc1-8315-7e6861d20d27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ITVAvila.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/models/Camion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/models/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/models/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/models/Motocicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/models/Propietatio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/models/Vehiculos.java" afterDir="false" />
-    </list>
+    <list default="true" id="3e0ae395-f4f4-4cc1-8315-7e6861d20d27" name="Changes" comment="inspeccion y revision de Vehiculos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -49,6 +40,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\alumno.AMAV\IdeaProjects\ITVAvila\src\com\iesam\itvavila\demo\domain\models" />
+      <recent name="D:\Users\alumno.AMAV\IdeaProjects\ITVAvila\src\com\iesam\itvavila" />
       <recent name="D:\Users\alumno.AMAV\IdeaProjects\ITVAvila\src" />
     </key>
   </component>
@@ -61,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671125420563</updated>
     </task>
+    <task id="LOCAL-00001" summary="inspeccion y revision de Vehiculos">
+      <created>1671128828794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671128828794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inspeccion y revision de Vehiculos" />
+    <option name="LAST_COMMIT_MESSAGE" value="inspeccion y revision de Vehiculos" />
   </component>
 </project>
